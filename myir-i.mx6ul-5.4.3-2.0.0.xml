@@ -12,7 +12,7 @@
   <remote fetch="git://github.com/meta-rust"  name="rust"/>
   <remote fetch="git://github.com/MYiR-Dev" name="MYiR-DEV"/>
 
-  <project remote="yocto" revision="a8f6e31bebc5a551fab1fec8d67489af80878f71" name="poky" path="sources/poky"/>
+  <project remote="yocto" revision="1ad28364512be087f35b7cac6f6289027c070767"  name="poky" path="sources/poky"/>
   <project remote="community" revision="94f4f086c6014cbcfd10bda3540d19558c8bf0b0" name="meta-freescale" path="sources/meta-freescale"/>
 
   <project remote="oe" revision="bb65c27a772723dfe2c15b5e1b27bcc1a1ed884c" name="meta-openembedded" path="sources/meta-openembedded"/>
