@@ -2,7 +2,7 @@
 <manifest>
 
   <default sync-j="8"/>
-
+ 
   <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   <remote fetch="git://github.com/Freescale" name="community"/>
   <remote fetch="git://github.com/openembedded" name="oe"/>
